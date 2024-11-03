@@ -17,7 +17,7 @@ for (i = 0; i <= 10; i++) {
 
 console.log("----------------------------------------------------------------");
 
-console.log("Loof While");
+console.log("Loop While");
 // 2. Loop while - Contando de 5 a 1
 // O loop `while` é utilizado quando não sabemos o número exato de iterações, mas sabemos a condição que determina o fim do loop.
 // Neste exemplo, o `while` é usado para contar de 5 a 1.
@@ -51,6 +51,12 @@ console.log("Iterando sobre um array de cores");
 const colors = ["Vermelho", "Verde", "Azul"];
 for (const color of colors) {
   console.log(color);
+}
+
+console.log("Iterando sobre um array de estudantes");
+let students = ["Edimar", "Isabela", "Eunice"];
+for (const student of students) {
+  console.log(student);
 }
 
 console.log("----------------------------------------------------------------");
