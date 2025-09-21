@@ -6,7 +6,7 @@
 
 ![Instituição](https://img.shields.io/badge/Instituição-OneBitCode-0078D4?style=for-the-badge&logo=azuredevops)
 ![Curso](https://img.shields.io/badge/Curso-JavaScript-4B8BBE?style=for-the-badge&logo=github)
-![Coordenador](https://img.shields.io/badge/Coord.-Milton%20Miranda%20Neto-FFCA28?style=for-the-badge&logo=linkedin)
+![Professor](https://img.shields.io/badge/Professor-Isaac%20Pontes-FFCA28?style=for-the-badge&logo=linkedin)
 
 **Instituição:** [OneBitCode](https://onebitcode.com/)  
 **Curso:** Introdução ao JavaScript  
@@ -136,5 +136,13 @@ node src/callback-example.js
 <a href="https://cardosofiles.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
 </a>
+
+</div>
+
+---
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#informações)
 
 </div>
