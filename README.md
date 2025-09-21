@@ -1,6 +1,20 @@
-# Intermediate JavaScript Course
+<div align="center">
+
+<h1 align="center">🚀 Curso Intermediário de JavaScript</h1>
+
+### Informações
+
+![Instituição](https://img.shields.io/badge/Instituição-OneBitCode-0078D4?style=for-the-badge&logo=azuredevops)
+![Curso](https://img.shields.io/badge/Curso-JavaScript-4B8BBE?style=for-the-badge&logo=github)
+![Coordenador](https://img.shields.io/badge/Coord.-Milton%20Miranda%20Neto-FFCA28?style=for-the-badge&logo=linkedin)
+
+**Instituição:** [OneBitCode](https://onebitcode.com/)  
+**Curso:** Introdução ao JavaScript  
+**Professor:** [Isaac Pontes](https://www.linkedin.com/in/isaac-pontes/)
 
 Repositório oficial do curso de JavaScript Intermediário, com exemplos práticos, exercícios e projetos que aprofundam o conhecimento na linguagem e no ecossistema JavaScript. Ideal para quem já domina o básico e deseja avançar em tópicos como manipulação de dados, módulos, callbacks, promessas, ES6+ e arquitetura de aplicações JavaScript.
+
+</div>
 
 ---
 
@@ -49,15 +63,18 @@ intermediate-javascript-course/
 ### Passo a passo
 
 1. **Clone o repositório**
+
    ```bash
    git clone https://github.com/Cardosofiles/intermediate-javascript-course.git
    cd intermediate-javascript-course
    ```
 
 2. **(Opcional) Instale as dependências**
+
    ```bash
    npm install
    ```
+
    > Apenas se o projeto utilizar dependências externas (verifique o arquivo `package.json`).
 
 3. **Acesse os exemplos**
